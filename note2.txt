@@ -133,7 +133,7 @@ BACK TO ALLAH (Ilaihi rojiun)
 manusia itu punya dua amanah
 1. amanah kehambaan
 2. amanah kemanusiaan
-dua hal ini seperti dua sisi mata uang,tidak terpisahkan jado mausia baik adalah hamba yang akhlak kemanusiaan. begitupun dengan alquran sering ayat kehambaan dan kemanusiann.
+dua hal ini seperti dua sisi mata uang,tidak terpisahkan jadi manusia baik adalah hamba yang akhlak kemanusiaan. begitupun dengan alquran sering ayat kehambaan dan kemanusiann.
 
 bekal nya ada 4
 1. pengetahuan
@@ -539,3 +539,56 @@ contoh idrok makna bismillah: bismillah dari segi kalamullah, allah itu ismu dza
 sofware design
 Whimsical
 icomoon
+-----------------------------------
+https://www.youtube.com/watch?v=hWWnqtPv9mU&list=PLQrQttrhMTnZVgn7sYy6V5gI7GDEGRReY
+NURUZOLAM BISYARHIL AQIDATUL AWAM
+Pujian
+-mahmud
+-hamid
+-hamid bih : alasan dipuji
+-hamid alaih : yang dipuji
+-sigot
+
+Hamdun hadist lil qodim
+Hamdun qodim lil qodim
+Hamdun qodim lil hadist
+Hamdun hadist lil hadist
+
+hamdun istilaahan : fiil, kenikamatan nya itu bisa sampai diri nya sendiri atau sampai kepada orang lain
+hamdun lughotan : bilisan
+-pembahasan bimllah
+Bismillahi disni ki nazim dibuat kan bait,dan bermakna dengan menyebut dzat yang memiliki nama allah, dan bermakna istian, meminta pertolaongan kepada dzat yang punya nama.
+-bagaimana hukumnya membuat bismillah dengan adzom itu adalah Khilaful aula, dan ini tidak bagus, tetapi kenapa ki nadzim menggunakannya, karena ini adalah hasil dari mimpi ketemu dengan rosul dan mengajarkannya langsung.
+-pemabahasan ismu
+nama itu ada :
+1. ismun
+2. musamma atau ainul musamma (yg punya nama)
+
+
+-kalau madzhabnya assyiroh itu ismun itu ainul musamma (orang yg punya nama), dalilnya sabbihisma rabbikal a'la, bukan ismun nya yang disucikan tetapi allah nya.
+-ada madzhab lainnya yang bilang itu ismun itu nama, dalilnya walahul asmaul huna
+- ada juga yang bilang itu ismun itu bukan ainul musamma.contohnya nama Api, api itu yang menyala2
+-ada yg berpendapat alquran itu tidak boleh diterjemahkan.
+makna allah kata imam suyuti: man taqoodama wujuduhu, yg sangat agung sifat2nya.
+-------------------------------------------------------
+https://www.youtube.com/watch?v=-439Hy5C_Sc
+TLS?
+
+1. Encryption
+simetris : ketika encript dan decrypt sama memakai kunci itu. ex algoritama aes(algortima block chiper : angkanya pasti)
+asimetris : ketika encrypt dan decrypt berbeda kuncinya, dan ini lebih lambat. contoh algortima RSA (stream chipper)
+operasi paling banyak dilakukan adalah xor
+2. HAS
+mirip kaya enkripsi tetapi oneway. biasanya dipakai untuk mengetahui diubah atau ga. terkenal biasanya md5. sha256bit
+3. Signature
+has yg di encrypt pake asimetris key
+
+TLS
+TCP
+IP
+-------------------------------------
+reference cv
+https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code
+
+referensi
+https://repository.uinjkt.ac.id/dspace/handle/123456789/73325
