@@ -1,0 +1,77 @@
+00:00:02 - 00:01:20
+Kita semua tahu madu baik untuk kesehatan, terlebih bagi orang Islam. Karena di dalam kitab sucinya dijelaskan bahwa madu adalah obat. Tapi yang ajaib dari lebah bukan hanya madunya, tapi lebahnya itu sendiri. [musik] Para matematikawan menyebut bahwa lebah adalah ahli matematika. [musik] Bagaimana bisa? Ini adalah jurnal matematika tahun 1999 [musik] berjudul The Honey Conjecture. Ditulis oleh seorang matematikawan Amerika Thomas Hells. The Honeyam Conjecture artinya [musik] dugaan sarang lebah.
+
+00:00:41 - 00:01:51
+Yang dimaksud dengan dugaan adalah para matematikawan menduga bahwa alasan lebah membangun sarangnya berbentuk [musik] heksagonal karena itulah bentuk geometri paling efisien untuk memaksimalkan penyimpanan madu walaupun dengan bahan yang sedikit. Menariknya, [musik] dugaan ini tersimpan selama ribuan tahun tanpa bukti sampai Thomas Hells mengeluarkan makalah ini. Dan Thomas Hells membuktikan [musik] secara matematis bahwa memang tidak ada bentuk lain yang lebih baik dari heksagonal seperti yang dibuat oleh
+
+00:01:16 - 00:02:32
+lebah. Dan itu artinya [musik] lebah lebih paham matematika dibanding kita. mathematics and it turns out Nah, guys, tonton video ini sampai habis. Kita akan belajar matematika dari lebah. Bahkan bukan hanya matematika, tapi kita juga akan belajar desain, arsitektur, dan ekonomi. Pokoknya kalian akan kagum dengan lebah karena ternyata lebah lebih cerdas dari pejabat yang suka korupsi pengadaan [musik] bahan. Karena itu guys, siapkan akalnya dan siapkan imannya karena kita akan masuk pada kajian yang bisa membuat kalian
+
+00:02:05 - 00:03:23
+gila. made real by bees [musik] [musik] kalian mau membangun rumah, apa yang pertama kali dipikirkan? Yang pasti desainnya plus biayanya. Kalau uang kalian tak terbatas, ya tentu mau desain seperti apapun enggak masalah. Tapi kalau uang kalian terbatas, ya tentu kalian mikir berkali-kali. Nah, ini tidak hanya terjadi pada manusia, tapi juga pada lebah. Lebah dalam membangun sarangnya harus turut memperhatikan desain dan biayanya. Apa maksudnya? Jadi perlu kalian tahu bahwa lebah membangun sarangnya dari lilin
+
+00:03:08 - 00:04:15
+lebah atau wax dan itu didapat dari tubuhnya sendiri dari kelenjar di bawah perutnya. Yang jadi masalah adalah untuk menghasilkan lilin lebah dari perutnya ini, lebah harus mengonsumsi madu yang banyak. Perbandingannya untuk menghasilkan 1 ons lilin lebah, lebah harus mengkonsumsi 8 ons madu. Sedangkan untuk menghasilkan 1 ons madu saja, lebah harus bekerja keras ribuan jam terbang ke sana kemari untuk mencari nektar. Jadi, biaya produksi rumahnya ini sangat mahal. Bayangkan kalian ingin membangun
+
+00:03:42 - 00:04:51
+rumah, tapi harga materialnya seperti semen dan batu bata cukup mahal. Tentu kalian berpikir gimana caranya menghemat bahan. Nah, kalau begitu kalian harus belajar dari lebah karena lebah bisa mengatasinya dengan matematika. Nah, supaya kalian paham, kita harus mundur jauh ke ribuan tahun yang lalu ketika para matematikawan mulai penasaran mengapa lebah madu membuat sarangnya heksagonal. Pada abad ke-36 sebelum Masehi, Marcus Terentius Faro, seorang sarjana Romawi menulis buku tentang pertanian.
+
+00:04:18 - 00:05:20
+Di dalam bukunya dia menulis, "Bukankah ruangan di dalam sarang lebah mempunyai enam sudut sama seperti jumlah kakinya? Para ahli geometri membuktikan bahwa heksagon di dalam sebuah lingkaran menampung [musik] ruang lebih banyak. Nah, tulisan dari Terentius Faro ini [musik] membuat penasaran banyak matematikawan. Benarkah lebah memilih heksagonal? Karena bentuk ini adalah bentuk [musik] yang memberikan area paling luas dibanding bentuk lainnya. Salah satu yang mencoba membuktikannya adalah Papu
+
+00:04:50 - 00:05:54
+dari Alexandria. Dia terkenal karena menulis delan buku [musik] tentang matematika. Dalam bukunya yang kelima, Papus menulis, "Walaupun [musik] Tuhan memberikan pemahaman terbaik dan paling lengkap tentang kebijaksanaan [musik] dan matematika kepada manusia, dia juga membagikannya pada makhluk tak berakal. Karena manusia punya [musik] akal, dia diberikan cara untuk menjelaskannya dan mendemonstrasikannya." Nah, konteks [musik] yang dimaksud Papus dalam tulisannya ini adalah dia bisa menjelaskan mengapa sarang lebah
+
+00:05:22 - 00:06:37
+berbentuk hesagonal. Maka Papus pun di dalam bukunya menjelaskan bahwa hanya ada tiga bentuk beraturan yang bisa disusun tanpa celah. Segitiga sama sisi, persegi, dan segi enam atau heksagonal. Dengan kemampuan geometrinya, Papus membuktikan bahwa dengan keliling yang sama, heksagonalah bentuk paling efisien karena mampu menampung madu paling banyak dibandingkan segitiga dan persegi. Namun sayangnya bukti dari papus ini tidak cukup, tidak menjawab secara utuh mengapa heksagonal adalah bentuk yang
+
+00:05:59 - 00:07:13
+paling luas. Karena Papus hanya [musik] menginvestigasi tiga bentuk beraturan tadi. Bagaimana kalau bentuknya tidak beraturan di luar tiga bentuk tadi? Nah, pertanyaan ini tidak terjawab selama ribuan tahun sehingga para matematikawan menyebutnya the honcure. [musik] Dugaan sarang lebah. [musik] complicated answer. It's one of the oldest in mathematics. It's got a name actually called the honeycure. Mathematicians have worked on it for thousands and thousands of years. Hingga pada tahun 1999,
+
+00:06:39 - 00:07:54
+2000 tahun kemudian setelah Faro menuliskannya, seorang matematikawan Amerika bernama Thomas Hells menulis makalahnya berjudul The Honeycom Conjecture. Dalam makalah ini, Thomas HellS bisa membuktikan secara mutlak bahwa memang tidak ada bentuk lain, baik itu beraturan atau tidak, yang lebih efisien dari heksagonal. Hex. Bagaimana Thomas HS membuktikannya? Bayangkan kalian mempunyai tali dengan panjang tertentu. Lalu kalian bentuk kira-kira bentuk apa yang paling luas? Nah, dalam matematika pertanyaan ini
+
+00:07:27 - 00:08:32
+sering disebut isoperimetric problem. Kelilingnya sama tapi luasnya beda. Pertanyaannya, bentuk apa yang paling luas? Jawaban singkatnya adalah lingkaran. Silakan saja hitung sendiri dengan rumus luas lingkaran dan bandingkan dengan luas bidang-bidang yang lain dengan catatan kelilingnya harus sama. Masalahnya adalah lingkaran menjadi yang paling luas kalau dia berdiri sendiri. [musik] Tapi kalau dia disusun menjadi kolom-kolom, justru lingkaran menjadi yang paling sempit. Ditambah total kelilingnya menjadi sangat panjang.
+
+00:08:00 - 00:09:13
+Kalau lebah membentuk sarangnya dengan lingkaran, lilinnya menjadi sangat boros. Maka pertanyaannya sekarang dibalik oleh Thomas Hells. Dengan luas yang sama, mana keliling yang paling pendek? Thomas Hels mempunyai rumus untuk itu, yaitu rumus ini. Di mana P adalah keliling dan N adalah jumlah sisi. Coba kalian masukkan saja nilai N-nya. 3 untuk segitiga, 4 untuk segiempat, 6 untuk segi dan seterusnya. Memang semakin banyak sisinya kelilingnya juga semakin pendek. Namun ingat, tidak boleh ada celah.
+
+00:08:36 - 00:09:59
+Sehingga yang paling mungkin disusun tanpa celah hanyalah segitiga, [musik] segiempat, dan segi seperti yang dikatakan papus. Dan segi enam lah yang paling pendek kelilingnya. I have six segments going around the triangle and I have six segments going around the hexagon. Here we're able to fit in four triangles. But if I do the same thing with a hexagon, we see that there's Rit six triangles instead of four. [musik] Tapi tidak puas sampai di situ, Thomas Hells lalu menginvestigasi adakah bentuk lain selain heksagonal
+
+00:09:25 - 00:10:31
+yang lebih luas, baik itu beraturan atau tidak beraturan. Thomas Hells membuktikannya dengan rumus-rumus yang sangat rumit yang kita tidak mungkin bahas di sini. Tapi yang pasti pada akhirnya Thomas Hell menemukan satuun bentuk lain yang lebih baik dari heksagonal. Bahkan jika beberapa bentuk dicampurkan tetap susunan heksagonal yang paling luas dan paling efisien. Thomas HS juga menghitung bahwa kolom-kolom heksagonal ini akan saling berbagi dinding. Ini ibarat kalian membangun rumah nempel dengan tetangga.
+
+00:10:11 - 00:11:16
+Kalau kalian tidak membuat dinding baru, tapi menggunakan dinding tetangga, tentu materialnya akan jauh lebih hemat. Jadi, Thomas Hels menghitung keliling heksagonal tadi jadi setengahnya. Nah, jadi terbukti sudah mengapa lebah membentuk sarangnya seperti ini. [musik] Itu karena alasan matematis bahwa dengan menyusunnya secara heksagonal membuat mereka bisa menghemat lilin. Menariknya, Guys, itu pun baru dianalisa secara dua dimensi. Bagaimana kalau dianalisa secara tiga dimensi? Nah, ini lebih menarik lagi.
+
+00:10:57 - 00:12:07
+Giakomo Filipo Maraldi, seorang astronom Prancis menemukan bahwa ternyata bagian dasar sarang lebah tidak datar, tapi mengerucut seperti belah ketupat. Dan secara presisi, Maraldi menghitung bahwa sudut belah ketupatnya selalu konsisten, yaitu tepat 70 derajat 32 menit [musik] yang kemudian disebut maraldi angle. Uniknya kalau ujung-ujung belah ketupat ini disatukan, mereka saling mengunci satu sama lain seperti puzzle. Ilmuwan Perancis bernama Reamur kemudian menantang para matematikawan untuk
+
+00:11:35 - 00:12:44
+membuktikan apakah sudut lebah ketupat 70 derajat tersebut juga merupakan bentuk yang paling hemat material. Tantangan ini berhasil dijawab oleh seorang matematikawan bernama Samuel Konig. Dengan metode kalkulus, dia berhasil membuktikan bahwa untuk meminimalkan luas permukaan sebuah [musik] prisma heksagonal, dia menemukan bahwa sudutnya sama persis seperti yang dibuat oleh lebah. Dan desain geometris tiga dimensi ini ketika disusun membentuk struktur yang indah yang kalau dilihat dari atas tampak [musik] simetris.
+
+00:12:10 - 00:13:16
+Dan bukan hanya hemat dan indah, tapi struktur sel sarang lebah ini juga kuat. Nah, untuk menguji kekuatan sarang lebah, para ilmuwan mengujinya menggunakan polariskop. Polariscop adalah alat untuk mengukur kekuatan bahan dengan memperhatikan pola cahayanya yang terpolarisasi. Perhatikan bahwa semakin banyak pelanginya, maka di titik itulah bagian paling lemah dan mudah patah. Sekarang perhatikan ketika susunan persegi diuji, tampak bahwa tekanan tidak tersebar merata ke dinding-dinding sebelahnya.
+
+00:12:43 - 00:13:56
+Artinya di titik ini susunan persegi mudah patah. Bagaimana dengan segitiga? Segitiga sebenarnya lebih parah karena tekanan berubah jadi kompresi pada dinding horizontal. Jika dindingnya terlalu tipis, dinding horizontal ini mudah melengkung dan mudah patah. Nah, berbeda dengan heksagonal. Tekanan pada susunan heksagonal ini justru terdistribusi secara merata dalam bentuk gaya tegangan. Hal ini membuat susunan heksagonal menjadi lebih kuat. Walaupun tipis. Itu sebabnya body pesawat menggunakan lapisan aluminium yang dibentuk secara
+
+00:13:20 - 00:14:30
+heksagonal yang disebut honeycom sandwich. You can see that hexagonal structure. So we use this in between the skin and the honey sandwich panel. Lapisan ini sangat kuat sekaligus ringan sehingga pesawat bisa dinaiki dan terbang. A better demonstration of the strength and stiffness of the panel. Nah, alasan-alasan inilah yang membuat lebah membuat sarangnya heksagonal. Selain tadi meminimalkan bahan, sarang heksagonal juga bisa menahan beban madu yang berat. Nah, Guys, [musik] itulah fakta-fakta
+
+00:13:59 - 00:15:09
+yang tak terbantahkan tentang sarang lebah. Bukti bahwa lebah ahli matematika. [musik] Maka wajar jika kemudian sarang lebah banyak ditiru manusia dalam berbagai teknologi seperti teleskop James [musik] Web yang menggunakan pola sarang lebah. Ya, karena tanpa pola sarang lebah, teleskop ini sulit untuk menangkap cahaya dalam area yang lebih luas. Ans why gold and why hexagons? The reason it's in hexagons is in [musik] the sort of efficiency of the detectors. We expect [musik] this telescubble.
+
+00:14:36 - 00:15:53
+That's crazy. Begitupun rumah kaca raksasa yang ada di UK ini. Mereka bisa menghemat rangka baja untuk [musik] membangun atap yang ringan sekaligus kuat. [musik] Bahkan helm pun disarankan para peneliti untuk menggunakan pola sarang lebah. [musik] [musik] Dan tidak terhitung berapa banyak bahan yang sebetulnya tanpa kita sadari menggunakan pola sarang lebah. Dan sebetulnya bukan hanya sarang lebah yang membuat lebah ahli matematika. Carl von [musik] mendapatkan hadiah Nobel karena menemukan bahwa lebah berkomunikasi satu
+
+00:15:27 - 00:16:24
+sama lain dalam bahasa matematika. Mereka menggunakan tarian lebah yang sering disebut wag dance. Dan menariknya sudut dan durasi tariannya secara tepat menunjukkan arah dan jarak makanannya dilihat dari posisi matahari. So the waggle dance will work with a waggle run which will [musik] point the direction of the box that you prefer that you visit and you like. And if it's [musik] a necess a short distance she'll do a short waggle. If it's a long distance, she'll do a much longer waggle. But the
+
+00:15:56 - 00:17:02
+actual [musik] pointing of the waggle will show where the nest box actually is. Jadi, guys, mulai sekarang ketika kalian melihat lebah, jangan hanya ingat madunya dan sengatannya, tapi ingat juga bahwa mereka adalah makhluk cerdas yang para ilmuwan sendiri bingung [musik] dari mana sebetulnya kemampuan mereka berasal. The bees knew what human mathematicians didn't know for thousands [musik] of years. Actually, musing know in quite a loose sense there. Still a great deal of debate amongst biologists
+
+00:16:28 - 00:16:32
+as to how [musik] the bees actually do
